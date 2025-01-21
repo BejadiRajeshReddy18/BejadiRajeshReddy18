@@ -1,5 +1,5 @@
 # 💫 Hi, I'm RajeshReddy Bejadi
-🔭 I’m currently working on DevOps<br>👯 I’m looking to collaborate on DevOps Projects and open-source projects<br>🤝 I’m looking for help with success in  an open-source contribution<br>🌱 I’m currently learning DevOps Tools<br>💬 Ask me about DevOps And Frontend development<br>⚡ Fun fact I'm lazy but smart
+🔭 I’m currently working on Front-End<br>👯 I’m looking to collaborate on DevOps Projects and open-source projects<br>🤝 I’m looking for help with success in  an open-source contribution<br>🌱 I’m currently learning DevOps Tools<br>💬 Ask me about DevOps And Frontend development<br>⚡ Fun fact I'm lazy but smart
 
 
 ## 🌐 Socials:
